@@ -1,4 +1,4 @@
-<h1><img align="center" src="assets/images/img.png" alt="nightly-it logo"/>Nightly-IT</h1>
+<h1><img align="center" src="main/assets/images/img.png" alt="nightly-it logo"/>Nightly-IT</h1>
 
 Ласкаво просимо до спільноти Nightly-IT
 
